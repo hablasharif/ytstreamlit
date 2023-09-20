@@ -1,4 +1,5 @@
 pyperclip
 pandas
 google-api-python-client
+xlsxwriter
  
